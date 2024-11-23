@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasx22&label=Profile%20views&color=0e75b6&style=flat" alt="dasx22" /> </p>
-<p align="left">
 
 - 🔭 I’m currently working on **Hallucination in t2i models**
 
@@ -20,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/satyam das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam das" height="30" width="40" /></a>
-<a href="https://instagram.com/@satyamavi_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@satyamavi_03" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/satyamdas03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/satyamdas03" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/satyamavi_03?igsh=mwd2mhl0y3hnamr4cq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/satyamavi_03?igsh=mwd2mhl0y3hnamr4cq==" height="30" width="40" /></a>
 <a href="https://medium.com/@satyamdas2017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@satyamdas2017" height="30" width="40" /></a>
 </p>
 
